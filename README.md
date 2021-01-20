@@ -4,7 +4,7 @@
 
 1. yii2 advanced template içinde,
 
-       composer require mertoncel/yii2-content
+       composer require nurdannvaynii/yii2-content
        
 2. backend\config\main.php dosyasına modülü ekliyoruz.
  
