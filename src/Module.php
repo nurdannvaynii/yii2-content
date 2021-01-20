@@ -1,6 +1,6 @@
 <?php
 
-namespace mertoncel\content;
+namespace nurdannvaynii\content;
 
 class Module extends \yii\base\Module
 {
