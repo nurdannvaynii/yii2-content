@@ -1,6 +1,6 @@
 <?php
 
-namespace nurdannvaynii\content;
+namespace nurdannvayniigo\content;
 
 class Module extends \yii\base\Module
 {
